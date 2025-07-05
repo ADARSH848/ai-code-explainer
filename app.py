@@ -27,8 +27,8 @@ with st.sidebar:
     st.markdown("GitHub: [ai-code-explainer](https://github.com/ADARSH848/ai-code-explainer)")
 
 # Title
-st.markdown("<h1 style='text-align: center;'>🧠 AI Code Explainer</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Explain your code in plain English using Google Gemini</p>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🧠 AI Code Explainer tool by Adarsh Anand</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Explain your code in plain English</p>", unsafe_allow_html=True)
 
 # Language selector
 languages = [
