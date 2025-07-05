@@ -24,7 +24,7 @@ with st.sidebar:
     st.markdown("Built using [Gemini API](https://ai.google.dev/)")
     st.markdown("Developed by **Adarsh Anand Karan**")
     st.markdown("Email: adarshkaran2002@gmail.com")
-    st.markdown("GitHub: [Your Repo](https://github.com/yourusername/ai-code-explainer)")
+    st.markdown("GitHub: [ai-code-explainer](https://github.com/ADARSH848/ai-code-explainer)")
 
 # Title
 st.markdown("<h1 style='text-align: center;'>🧠 AI Code Explainer</h1>", unsafe_allow_html=True)
