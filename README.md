@@ -19,7 +19,7 @@ Great for beginners, educators, and developers who want to understand what code 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository:
-```bash
+
 git clone https://github.com/adarshkaran2002/ai-code-explainer.git
 cd ai-code-explainer
 
