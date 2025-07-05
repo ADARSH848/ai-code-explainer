@@ -38,8 +38,8 @@ The app will open at: http://localhost:8501
 
 
 
-![Screenshot 2025-07-05 124227](https://github.com/use![Screenshot 2025-07-05 124243](https://github.com/user-attachments/assets/023ae3ff-3e20-487f-93c3-f8db31bd93cb)
-r-attachments/assets/f5cc32e4-1c3b-4e5d-8de4-02000922d79b)![Screenshot 2025-07-05 124324](https://github.com/user-attachments/assets/ec326bd8-86c2-42e8-bfcc-301610c6eec2)
+
+![Screenshot 2025-07-05 124227](https://github.com/user-attachments/assets/f944f059-c18f-4485-b36e-53b3d15b8dc5)
 
 
 
